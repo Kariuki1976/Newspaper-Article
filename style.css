@@ -1,15 +1,15 @@
 * {
-    background: linear-gradient(120deg, #F2EFE3 40%, black 60%);
+    background: linear-gradient(90deg, #D1D856 40%, #FFFBF0 60%);
 }
 
 .coding {
-    color: gold;
+    color: red;
     text-align: center;
 }
 
 #subscript {
     font-size: 15px;
-    color: gold;
+    color: red;
     font-weight: bolder;
 }
 
@@ -21,4 +21,15 @@
 .link {
     color: blue;
     font-weight: bold;
+}
+
+.section-2 {
+    text-align: center;
+    border: 2px solid green;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.article {
+    text-align: center;
 }

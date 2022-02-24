@@ -1,21 +1,24 @@
 * {
-    background-color: black;
+    background: linear-gradient(120deg, #F2EFE3 40%, black 60%);
 }
 
 .coding {
     color: gold;
+    text-align: center;
 }
 
 #subscript {
     font-size: 15px;
-    color: rgb(28, 2, 175);
+    color: gold;
+    font-weight: bolder;
 }
 
 .point {
-    color: white;
-    font-weight: bold;
+    color: black;
+    font-weight: bolder;
 }
 
 .link {
-    color: maroon;
+    color: blue;
+    font-weight: bold;
 }

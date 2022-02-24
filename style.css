@@ -1,3 +1,21 @@
 * {
-    background-color: grey;
+    background-color: black;
+}
+
+.coding {
+    color: gold;
+}
+
+#subscript {
+    font-size: 15px;
+    color: rgb(28, 2, 175);
+}
+
+.point {
+    color: white;
+    font-weight: bold;
+}
+
+.link {
+    color: maroon;
 }
